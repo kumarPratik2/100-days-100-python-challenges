@@ -46,7 +46,6 @@ python "Number Guessing Game.py"
 
 * [ ] Add difficulty levels
 * [ ] Add proper range validation (1–100 only)
-* [ ] Reveal the correct answer after Game Over
 * [ ] Add replay option
 * [ ] Add scoring system
 * [ ] Add hints like "Very Close"
