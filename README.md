@@ -23,7 +23,7 @@ The goal of this challenge is to improve my Python programming skills, problem-s
 | Day    | Challenge                      | Topic                                            | Status    |
 | ------ | ------------------------------ | ------------------------------------------------ | --------- |
 | Day 01 | Number Guessing Game           | Loops, conditionals, random module               | Completed |
-| Day 02 | Simple Calculator              | Functions, user input, arithmetic operations     | Pending   |
+| Day 02 | Simple Calculator              | Functions, user input, arithmetic operations     | Completed |
 | Day 03 | BMI Calculator                 | Variables, math operations, input validation     | Pending   |
 | Day 04 | Temperature Converter          | Functions, conditionals, unit conversion         | Pending   |
 | Day 05 | Currency Converter             | Dictionaries, user input, basic conversion logic | Pending   |
