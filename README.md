@@ -24,8 +24,8 @@ The goal of this challenge is to improve my Python programming skills, problem-s
 | ------ | ------------------------------ | ------------------------------------------------ | --------- |
 | Day 01 | Number Guessing Game           | Loops, conditionals, random module               | Completed |
 | Day 02 | Simple Calculator              | Functions, user input, arithmetic operations     | Completed |
-| Day 03 | BMI Calculator                 | Variables, math operations, input validation     |  Completed|
-| Day 04 | Temperature Converter          | Functions, conditionals, unit conversion         | Pending   |
+| Day 03 | BMI Calculator                 | Variables, math operations, input validation     | Completed |
+| Day 04 | Temperature Converter          | Functions, conditionals, unit conversion         | Completed |
 | Day 05 | Currency Converter             | Dictionaries, user input, basic conversion logic | Pending   |
 | Day 06 | Odd/Even and Prime Checker     | Loops, conditionals, modulo operator             | Pending   |
 | Day 07 | Multiplication Table Generator | Loops, formatted output                          | Pending   |
