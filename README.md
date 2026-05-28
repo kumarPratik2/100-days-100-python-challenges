@@ -27,7 +27,7 @@ The goal of this challenge is to improve my Python programming skills, problem-s
 | Day 03 | BMI Calculator                 | Variables, math operations, input validation     | Completed |
 | Day 04 | Temperature Converter          | Functions, conditionals, unit conversion         | Completed |
 | Day 05 | Currency Converter             | Dictionaries, user input, basic conversion logic | Completed |
-| Day 06 | Odd/Even and Prime Checker     | Loops, conditionals, modulo operator             | Pending   |
+| Day 06 | Odd/Even and Prime Checker     | Loops, conditionals, modulo operator             | Completed |
 | Day 07 | Multiplication Table Generator | Loops, formatted output                          | Pending   |
 | Day 08 | Basic Password Generator       | Strings, random module, list operations          | Pending   |
 | Day 09 | Rock Paper Scissors Game       | Conditionals, random module, game logic          | Pending   |
