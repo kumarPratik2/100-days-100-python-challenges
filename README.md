@@ -28,7 +28,7 @@ The goal of this challenge is to improve my Python programming skills, problem-s
 | Day 04 | Temperature Converter          | Functions, conditionals, unit conversion         | Completed |
 | Day 05 | Currency Converter             | Dictionaries, user input, basic conversion logic | Completed |
 | Day 06 | Odd/Even and Prime Checker     | Loops, conditionals, modulo operator             | Completed |
-| Day 07 | Multiplication Table Generator | Loops, formatted output                          | PCompleted|
+| Day 07 | Multiplication Table Generator | Loops, formatted output                          | Completed |
 | Day 08 | Basic Password Generator       | Strings, random module, list operations          | Pending   |
 | Day 09 | Rock Paper Scissors Game       | Conditionals, random module, game logic          | Pending   |
 | Day 10 | Dice Rolling Simulator         | Random module, loops, user interaction           | Pending   |
