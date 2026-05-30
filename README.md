@@ -34,7 +34,7 @@ Each project is organized into its own folder and contains:
 
 ```text
 Day XX - Project Name/
-├── main.py
+├── filename.py
 └── README.md
 ```
 
