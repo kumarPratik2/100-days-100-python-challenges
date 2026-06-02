@@ -61,8 +61,8 @@ Every project includes:
 | Day 07 | Multiplication Table Generator | Loops, formatted output                          | ✅ Completed   |
 | Day 08 | Basic Password Generator       | Strings, random module, list operations          | ✅ Completed   |
 | Day 09 | Rock Paper Scissors Game       | Conditionals, random module, game logic          | ✅ Completed   |
-| Day 10 | Dice Rolling Simulator         | Random module, loops, user interaction           | ⏳ Pending     |
-| Day 11 | To-Do List CLI App             | Lists, CRUD operations, loops                    | ⏳ Pending     |
+| Day 10 | Dice Rolling Simulator         | Random module, loops, user interaction           | ✅ Completed   |
+| Day 11 | To-Do List CLI App             | Lists, CRUD operations, loops                    | ✅ Completed   |
 | Day 12 | Contact Book CLI               | Dictionaries, search, CRUD operations            | ⏳ Pending     |
 | Day 13 | Student Marks Calculator       | Lists, functions, average, grading logic         | ⏳ Pending     |
 | Day 14 | Word Counter                   | Strings, file handling, text processing          | ⏳ Pending     |
