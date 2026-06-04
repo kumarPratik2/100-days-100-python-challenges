@@ -64,7 +64,7 @@ Every project includes:
 | Day 10 | Dice Rolling Simulator         | Random module, loops, user interaction           | ✅ Completed   |
 | Day 11 | To-Do List CLI App             | Lists, CRUD operations, loops                    | ✅ Completed   |
 | Day 12 | Contact Book CLI               | Dictionaries, search, CRUD operations            | ✅ Completed   |
-| Day 13 | Student Marks Calculator       | Lists, functions, average, grading logic         | ⏳ Pending     |
+| Day 13 | Student Marks Calculator       | Lists, functions, average, grading logic         | ✅ Completed   |
 | Day 14 | Word Counter                   | Strings, file handling, text processing          | ⏳ Pending     |
 | Day 15 | Character Frequency Counter    | Dictionaries, strings, frequency counting        | ⏳ Pending     |
 | Day 16 | Palindrome Checker             | String slicing, conditionals, functions          | ⏳ Pending     |
