@@ -1,0 +1,83 @@
+# Word Counter
+
+## Overview
+
+A simple Command Line Interface (CLI) application that reads a text file and counts the total number of words present in it.
+
+This project was built as part of my **100 Days, 100 Python Challenges** journey to practice file handling, string manipulation, and basic text processing.
+
+---
+
+## Features
+
+* Reads content from a text file
+* Splits text into individual words
+* Counts the total number of words
+* Displays the word count to the user
+* Uses file handling operations
+
+---
+
+## Concepts Used
+
+* File Handling
+* Variables
+* Strings
+* String Methods (`split()`)
+* Lists
+* Built-in Functions (`len()`)
+* Reading Files
+* Output Formatting (f-strings)
+
+---
+
+## How It Works
+
+1. Open the text file using `open()`.
+2. Read the entire content of the file using `.read()`.
+3. Store the content as a string.
+4. Split the string into individual words using `.split()`.
+5. Store the words in a list.
+6. Count the total number of words using `len()`.
+7. Display the result.
+8. Close the file using `.close()`.
+
+---
+
+## How to Run
+
+1. Create a text file named `Sample.txt` in the same folder as the Python script.
+2. Add any text you want to count.
+3. Save the Python file as `word_counter.py`.
+4. Open a terminal in the project folder.
+5. Run the program:
+
+```bash id="x8m3ra"
+python word_counter.py
+```
+
+---
+
+## Example Output
+
+```text id="r4n7vy"
+Total number of words in the given text: 125
+```
+
+---
+
+## Future Improvements
+
+* Add exception handling for missing files
+* Count characters in addition to words
+* Count sentences and paragraphs
+* Ignore punctuation while counting
+* Display the most frequently used words
+* Allow the user to choose a file dynamically
+* Support multiple file formats
+
+---
+
+## Author
+
+Pratik Kumar
