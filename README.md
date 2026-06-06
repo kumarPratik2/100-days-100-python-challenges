@@ -66,7 +66,7 @@ Every project includes:
 | Day 12 | Contact Book CLI               | Dictionaries, search, CRUD operations            | ✅ Completed   |
 | Day 13 | Student Marks Calculator       | Lists, functions, average, grading logic         | ✅ Completed   |
 | Day 14 | Word Counter                   | Strings, file handling, text processing          | ✅ Completed   |
-| Day 15 | Character Frequency Counter    | Dictionaries, strings, frequency counting        | ⏳ Pending     |
+| Day 15 | Character Frequency Counter    | Dictionaries, strings, frequency counting        | ✅ Completed   |
 | Day 16 | Palindrome Checker             | String slicing, conditionals, functions          | ⏳ Pending     |
 | Day 17 | Simple Quiz App                | Lists, dictionaries, scoring system              | ⏳ Pending     |
 | Day 18 | Countdown Timer                | Time module, loops                               | ⏳ Pending     |
