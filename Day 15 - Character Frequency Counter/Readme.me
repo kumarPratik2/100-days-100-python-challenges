@@ -1,0 +1,109 @@
+# Day 15 – Character Frequency Counter
+
+## Description
+
+A simple Python CLI application that counts the frequency of characters in a given string. The program converts all input to lowercase, stores character frequencies in a dictionary, and allows users to repeatedly check how many times a specific character appears in the string.
+
+This project was built to practice working with strings, dictionaries, loops, functions, and user input validation.
+
+---
+
+## Features
+
+* Accepts a string from the user.
+* Converts input to lowercase for consistent counting.
+* Counts character frequencies using a dictionary.
+* Allows users to check the frequency of any character.
+* Handles characters that are not present in the string.
+* Supports multiple searches without restarting the program.
+* Includes basic input validation for continuation choices.
+
+---
+
+## Concepts Practiced
+
+### Strings
+
+* `input()`
+* `.lower()`
+* `.count()`
+
+### Dictionaries
+
+* Creating dictionaries
+* Storing key-value pairs
+* Updating dictionary values
+* Accessing values using keys
+
+### Functions
+
+* Function creation
+* Parameters
+* Function calls
+
+### Loops
+
+* `for` loops
+* `while` loops
+* Nested loops
+
+### Validation
+
+* Character existence checking
+* Menu response validation
+
+---
+
+## How It Works
+
+1. User enters a string.
+2. The string is converted to lowercase.
+3. A frequency dictionary is created where:
+
+   * Key = Character
+   * Value = Number of occurrences
+4. User enters a character to search.
+5. Program displays how many times that character appears.
+6. User can continue checking additional characters until choosing to exit.
+
+---
+
+## Example Output
+
+```text
+Enter the string: Python is fun
+
+Enter the character whose frequency you want to check: n
+
+n has appeared 2 time(s) in this string.
+
+Do you want to check another character? If yes type "y" or "n" if not.
+Enter your choice: n
+
+Thank You
+```
+
+---
+
+## Future Improvements
+
+* Ignore spaces while counting frequencies.
+* Ignore punctuation and special characters.
+* Build the frequency dictionary only once for better efficiency.
+* Display frequencies of all characters at once.
+* Support counting characters from text files.
+* Add exception handling and additional input validation.
+
+---
+
+## Learning Outcome
+
+Through this project, I practiced using dictionaries to store and retrieve data, improved my understanding of string methods, and reinforced concepts related to loops, functions, and input validation. The project also introduced the idea of frequency counting, which is a common problem-solving pattern in programming.
+
+---
+
+## Author
+
+**Pratik Kumar**
+
+Part of my **100 Days / 100 Python Projects** learning journey.
