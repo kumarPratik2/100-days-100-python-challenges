@@ -70,7 +70,7 @@ Every project includes:
 | Day 16 | Palindrome Checker             | String slicing, conditionals, functions          | ✅ Completed   |
 | Day 17 | Simple Quiz App                | Lists, dictionaries, scoring system              | ✅ Completed   |
 | Day 18 | Countdown Timer                | Time module, loops                               | ✅ Completed   |
-| Day 19 | Basic Alarm Clock              | Datetime module, time module, loops              | ⏳ Pending     |
+| Day 19 | Basic Alarm Clock              | Datetime module, time module, loops              | ✅ Completed   |
 | Day 20 | Unit Converter App             | Functions, menus, conditionals, conversion logic | ⏳ Pending     |
 
 ---
