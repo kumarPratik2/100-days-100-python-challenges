@@ -72,6 +72,26 @@ Every project includes:
 | Day 18 | Countdown Timer                | Time module, loops                               | ✅ Completed   |
 | Day 19 | Basic Alarm Clock              | Datetime module, time module, loops              | ✅ Completed   |
 | Day 20 | Unit Converter App             | Functions, menus, conditionals, conversion logic | ✅ Completed   |
+| Day 21 | Expense Tracker CLI            | File handling, CSV operations, data persistence  | ⏳ Upcoming    |
+| Day 22 | Daily Journal App              | Text files, append/read operations               | ⏳ Upcoming    |
+| Day 23 | Notes App                      | File-based CRUD operations                       | ⏳ Upcoming    |
+| Day 24 | CSV Data Reader                | CSV module, structured data processing           | ⏳ Upcoming    |
+| Day 25 | JSON Contact Manager           | JSON handling, persistent storage                | ⏳ Upcoming    |
+| Day 26 | Bank Account Simulation        | Classes, OOP basics, state management            | ⏳ Upcoming    |
+| Day 27 | Library Management System CLI  | OOP, lists, search logic                         | ⏳ Upcoming    |
+| Day 28 | Inventory Management System    | Classes, file persistence                        | ⏳ Upcoming    |
+| Day 29 | Employee Management System     | OOP, CRUD logic, data organization               | ⏳ Upcoming    |
+| Day 30 | Movie Collection Manager       | JSON storage, search and filtering               | ⏳ Upcoming    |
+| Day 31 | Simple Billing System          | OOP design, formatted output                     | ⏳ Upcoming    |
+| Day 32 | ATM Simulator                  | Authentication logic, OOP modeling               | ⏳ Upcoming    |
+| Day 33 | Hotel Room Booking CLI         | Class design, booking system logic               | ⏳ Upcoming    |
+| Day 34 | Vehicle Rental System          | OOP modeling, object interaction                 | ⏳ Upcoming    |
+| Day 35 | School Management System       | Multiple interacting classes                     | ⏳ Upcoming    |
+| Day 36 | Password Manager CLI           | Encryption basics, secure storage                | ⏳ Upcoming    |
+| Day 37 | File Organizer Script          | OS module, file automation                       | ⏳ Upcoming    |
+| Day 38 | Duplicate File Finder          | Hashing, file system traversal                   | ⏳ Upcoming    |
+| Day 39 | Folder Size Calculator         | os.walk, directory analysis                      | ⏳ Upcoming    |
+| Day 40 | Log File Analyzer              | File parsing, structured analysis                | ⏳ Upcoming    |
 
 ---
 
@@ -98,30 +118,6 @@ Clean project architecture
 CRUD-based applications
 Real-world simulations
 The goal of this phase is to transition from writing simple scripts to designing structured and reusable programs.
-
-📈 Phase 2 Progress
-Day	Project	Skills Built	Status
-Day 21	Expense Tracker CLI	File handling, CSV operations	⏳ Upcoming
-Day 22	Daily Journal App	Text file handling, append/read	⏳ Upcoming
-Day 23	Notes App	File-based CRUD operations	⏳ Upcoming
-Day 24	CSV Data Reader	csv module, structured reading	⏳ Upcoming
-Day 25	JSON Contact Manager	JSON handling, persistent storage	⏳ Upcoming
-Day 26	Bank Account Simulation	Classes, OOP basics	⏳ Upcoming
-Day 27	Library Management System CLI	OOP, lists, search logic	⏳ Upcoming
-Day 28	Inventory Management System	Classes, file persistence	⏳ Upcoming
-Day 29	Employee Management System	OOP, CRUD logic	⏳ Upcoming
-Day 30	Movie Collection Manager	JSON storage, filtering, search	⏳ Upcoming
-Day 31	Simple Billing System	OOP design, formatted output	⏳ Upcoming
-Day 32	ATM Simulator	Authentication logic, OOP	⏳ Upcoming
-Day 33	Hotel Room Booking CLI	Class design, booking logic	⏳ Upcoming
-Day 34	Vehicle Rental System	OOP system modeling	⏳ Upcoming
-Day 35	School Management System	Multiple interacting classes	⏳ Upcoming
-Day 36	Password Manager CLI	Basic encryption concepts	⏳ Upcoming
-Day 37	File Organizer Script	os, shutil, automation basics	⏳ Upcoming
-Day 38	Duplicate File Finder	Hashing, file system traversal	⏳ Upcoming
-Day 39	Folder Size Calculator	os.walk, file system operations	⏳ Upcoming
-Day 40	Log File Analyzer	File parsing, structured analysis	⏳ Upcoming
-
 
 🎯 Phase 2 Objective
 By the end of Phase 2, I aim to:
