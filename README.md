@@ -88,6 +88,51 @@ I am currently focusing on strengthening:
 
 ---
 
+🚀 Phase 2 – File Handling & Object-Oriented Programming
+In Phase 2, I move beyond basic scripting and start building structured programs using:
+
+File handling (TXT, CSV, JSON)
+Object-Oriented Programming (OOP)
+Data persistence
+Clean project architecture
+CRUD-based applications
+Real-world simulations
+The goal of this phase is to transition from writing simple scripts to designing structured and reusable programs.
+
+📈 Phase 2 Progress
+Day	Project	Skills Built	Status
+Day 21	Expense Tracker CLI	File handling, CSV operations	⏳ Upcoming
+Day 22	Daily Journal App	Text file handling, append/read	⏳ Upcoming
+Day 23	Notes App	File-based CRUD operations	⏳ Upcoming
+Day 24	CSV Data Reader	csv module, structured reading	⏳ Upcoming
+Day 25	JSON Contact Manager	JSON handling, persistent storage	⏳ Upcoming
+Day 26	Bank Account Simulation	Classes, OOP basics	⏳ Upcoming
+Day 27	Library Management System CLI	OOP, lists, search logic	⏳ Upcoming
+Day 28	Inventory Management System	Classes, file persistence	⏳ Upcoming
+Day 29	Employee Management System	OOP, CRUD logic	⏳ Upcoming
+Day 30	Movie Collection Manager	JSON storage, filtering, search	⏳ Upcoming
+Day 31	Simple Billing System	OOP design, formatted output	⏳ Upcoming
+Day 32	ATM Simulator	Authentication logic, OOP	⏳ Upcoming
+Day 33	Hotel Room Booking CLI	Class design, booking logic	⏳ Upcoming
+Day 34	Vehicle Rental System	OOP system modeling	⏳ Upcoming
+Day 35	School Management System	Multiple interacting classes	⏳ Upcoming
+Day 36	Password Manager CLI	Basic encryption concepts	⏳ Upcoming
+Day 37	File Organizer Script	os, shutil, automation basics	⏳ Upcoming
+Day 38	Duplicate File Finder	Hashing, file system traversal	⏳ Upcoming
+Day 39	Folder Size Calculator	os.walk, file system operations	⏳ Upcoming
+Day 40	Log File Analyzer	File parsing, structured analysis	⏳ Upcoming
+
+
+🎯 Phase 2 Objective
+By the end of Phase 2, I aim to:
+
+Build structured, real-world CLI applications
+Understand how to persist and manage data
+Design programs using classes and clean methods
+Improve code organization and scalability
+Strengthen my Git workflow through structured commits
+
+
 ## 🧠 Learning Approach
 
 For every project, I aim to:
