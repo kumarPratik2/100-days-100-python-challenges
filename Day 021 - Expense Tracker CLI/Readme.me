@@ -1,0 +1,123 @@
+# 💰 Expense Tracker App
+
+A command-line expense tracking application built while learning Python fundamentals such as dictionaries, functions, loops, file handling, exception handling, and persistent data storage.
+
+This application allows users to record expenses, search previous expenses, calculate total spending, and store expense data locally so it remains available even after the program is closed.
+
+---
+
+## 📌 Project Overview
+
+This project helps users keep track of their expenses by storing expense categories along with the amount spent.
+
+The application saves all expense data in a local text file, allowing previously stored data to be loaded again whenever the program is restarted.
+
+The project was built to practice working with structured data, persistent storage, user input validation, and organizing code using functions.
+
+---
+
+## ✨ Features
+
+* Add new expense entries
+* Automatically update existing expense categories
+* View all recorded expenses
+* Search expenses by category
+* Calculate total amount spent
+* Reset all stored expense data
+* Persistent data storage using file handling
+* Automatic saving after every update
+* Error handling for invalid user input
+* Input cleanup using `.strip()` and `.lower()`
+
+---
+
+## 🛠 Concepts Practiced
+
+* Dictionaries
+* Functions
+* Loops (`while`, `for`)
+* Conditional Statements (`if-elif-else`)
+* File Handling (`open()`, read/write modes)
+* Exception Handling (`try-except`)
+* User Input Validation
+* String Methods (`strip()`, `lower()`)
+* Data Persistence
+* Program Structuring
+
+---
+
+## 📂 Project Structure
+
+```text
+expense-tracker/
+│── expense_tracker.py
+│── expense_tracker.txt
+│── README.md
+```
+
+---
+
+## ▶ How It Works
+
+The user is presented with a menu containing multiple options:
+
+```text
+1. Add Expenses
+2. View all Expenses
+3. Search Expense
+4. Calculate Total Expense
+5. Reset
+6. Exit
+```
+
+The program stores expense data inside a Python dictionary and saves it to a local text file after updates so that previous expense history is not lost.
+
+---
+
+## Example Usage
+
+```text
+Expense Tracker
+1. Add Expenses
+2. View all Expenses
+3. Search Expense
+4. Calculate Total Expense
+5. Reset
+6. Exit
+
+Enter the option number: 1
+Enter the title for expense: food
+Enter the amount you spent: 500
+
+$500 amount added in tracker for food.
+```
+
+---
+
+## 📖 What I Learned
+
+Through this project, I practiced building a larger Python application by combining multiple concepts together instead of solving isolated exercises.
+
+Key learning areas included:
+
+* Managing data using dictionaries
+* Saving and loading data using files
+* Handling invalid user input with exceptions
+* Structuring code using reusable functions
+* Building applications that maintain data between program runs
+
+---
+
+## 🚀 Future Improvements
+
+Possible improvements for future versions:
+
+* Replace `eval()` with safer file handling methods
+* Convert project into Object-Oriented Programming (OOP)
+* Use JSON for better data storage
+* Add option to delete specific expense categories
+* Improve terminal interface and formatting
+
+---
+
+**Part of my 100 Days of Python Challenge 🐍**

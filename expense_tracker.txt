@@ -1,0 +1,1 @@
+{'food': 700, 'books': 500, 'travel': 100, 'movie': 100}
