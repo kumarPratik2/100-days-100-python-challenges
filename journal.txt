@@ -1,0 +1,1 @@
+{'26-Jun': {'Practice': 'solve 3-5 python exercises today', 'Oop': 'learn oop'}}

@@ -72,7 +72,7 @@ Every project includes:
 | Day 18 | Countdown Timer                | Time module, loops                               | ✅ Completed   |
 | Day 19 | Basic Alarm Clock              | Datetime module, time module, loops              | ✅ Completed   |
 | Day 20 | Unit Converter App             | Functions, menus, conditionals, conversion logic | ✅ Completed   |
-| Day 21 | Expense Tracker CLI            | File handling, CSV operations, data persistence  | ⏳ Upcoming    |
+| Day 21 | Expense Tracker CLI            | File handling, CSV operations, data persistence  | ✅ Completed   |
 | Day 22 | Daily Journal App              | Text files, append/read operations               | ⏳ Upcoming    |
 | Day 23 | Notes App                      | File-based CRUD operations                       | ⏳ Upcoming    |
 | Day 24 | CSV Data Reader                | CSV module, structured data processing           | ⏳ Upcoming    |
